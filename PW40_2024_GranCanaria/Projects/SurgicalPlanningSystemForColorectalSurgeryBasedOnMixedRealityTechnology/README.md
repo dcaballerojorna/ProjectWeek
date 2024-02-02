@@ -60,6 +60,20 @@ The objective of this project is to implement the required tools for the develop
 1.  We have done the semi-automatic method of the colon anatomy using a CT scan under Slicer 3D platform based on region growing algorithms.
 2.  We are working in the scripts in Unity to develop the MR application, so that we can read the 3D model and points of interest and resection lines of the surgical planning.
 
+Progress in project week 40.
+
+1.- The surgeon can add points of interest and resection planes in the 3D segmented colon model.
+2.- From 3D slicer, the information about surgical planning can be exported on JSON format for later viewing in the MR application on HoloLens.
+3.- Friendly and easy-going interface.
+4.- Adapted to injuries and individual anatomical variations.
+5.- Possibility of add annotations.
+
+Future steps from project week 40
+
+1.- Improve the visualization of the 3D models on MR by applying Unity.
+2.- Validation in simulated and experimental 3D models.
+3.- Add new funcionalities according to the needs of the surgeons.
+
 # Illustrations
 
 <!-- Add pictures and links to videos that demonstrate what has been accomplished. -->
